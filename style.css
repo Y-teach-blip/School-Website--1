@@ -32,6 +32,10 @@ h3 {
     font-family: sans-serif;
     font-weight: 300;
 }
+#heading{
+    font-size: 18px;
+    
+}
 
 
 .line {
@@ -75,5 +79,6 @@ p{
     font-size: 59;
     font-family: cursive;
     text-align: left;
+    color: chocolate;
     }
   
